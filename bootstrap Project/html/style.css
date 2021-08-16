@@ -1,0 +1,47 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+    padding: 0px;
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: 1px 1px 5px gold;
+}
+.image{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0%;
+    margin-top: 74px;
+}
+.navbar #mymenue .coustum-css .nav-item a{
+    color: #fff;
+    font-size: 1.2rem;
+}
+.navbar #mymenue .coustum-css .nav-item a:hover{
+    color: #f0AAb1;
+    text-shadow: 2px 2px 1px gray;
+}
+.footer{
+    height: 100px;
+
+}
+.footer p{
+    line-height: 100px;
+}
+.container-fluid .container .custom-link a{
+    color:#dc3545;
+}
+
+.container-fluid .container .custom-link a:hover{
+    color:#e994a2;
+}
+.container-fluid .container .footer a{
+    color:#dc3545;
+}
+
+.font-italic{
+    font-size: 24px;;
+}
